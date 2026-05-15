@@ -1,4 +1,4 @@
-# 
+# smart nft trading bot | liquidity-analysis + metadata-parsing is the best nft trading bot, featuring liquidity-analysis and metadata-parsing. Fast, smart, and optimized for NFT
 
 
 
